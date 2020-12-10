@@ -1,0 +1,468 @@
+name,gender,status,salary,pay_basis,position_title
+"Abney,Allen K.",Male,Employee,45000,Per Annum,SPOKESMAN
+"Aidekman,David S.",Male,Employee,62500,Per Annum,DIRECTOR FOR PROGRAMS AND RESOURCES
+"Allen,Joseph Michael,III",Male,Employee,83300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS
+"Allgood,Lauren K.",Female,Employee,45000,Per Annum,"EXECUTIVE ASSISTANT, OFFICE OF POLICY DEVELOPMENT"
+"Amorsingh,Lucius Linus",Male,Employee,39284,Per Annum,"DEPUTY DIRECTOR, STUDENT CORRESPONDENCE"
+"Anderson,Meredith L.",Female,Employee,30441,Per Annum,AGENCY COORDINATOR
+"Anderson,Peder A.",Male,Detailee,106086,Per Annum,ETHICS ADVISOR
+"Anderson,Theresa R.",Female,Employee,34919,Per Annum,TELEPHONE SERVICE ASSISTANT
+"Andrews,Mary Catherine",Female,Employee,109300,Per Annum,DEPUTY DIRECTOR OF GLOBAL COMMUNICATION
+"Armstrong,Sara W.",Female,Employee,41600,Per Annum,DEPUTY DIRECTOR OF CORRESPONDENCE FOR THE FIRST LADY
+"Arnold,Listi",Female,Employee,47000,Per Annum,SPECIAL ASSISTANT FOR MANAGEMENT AND ADMINISTRATION
+"Atkin,Chelsey M.",Female,Employee,31000,Per Annum,STAFF ASSISTANT
+"Atkinson,Carolyn F.",Female,Employee,50000,Per Annum,"DIRECTOR, COMMENT LINE, GREETINGS AND VOLUNTEERS"
+"Atkiss,Steven A.",Male,Employee,70000,Per Annum,DEPUTY DIRECTOR OF ADVANCE
+"Attili,Candice L.",Female,Employee,38672,Per Annum,TELEPHONE SERVICE ASSISTANT
+"Babin,Chad Christopher",Male,Employee,55200,Per Annum,"DEPUTY DIRECTOR, WHITE HOUSE MANAGEMENT"
+"Badenhop,Kimberly A.",Female,Employee,65000,Per Annum,DIRECTOR FOR ADMINISTRATION
+"Badger,William Douglas",Male,Employee,109300,Per Annum,"SPECIAL ASSISTANT TO THE PRESIDENT FOR ECONOMIC POLICY, OFFICE OF POLICY DEVELOPMENT"
+"Baer,Christine Klima",Female,Employee,65813,Per Annum,SENIOR PRESIDENTIAL SUPPORT SPECIALIST
+"Bailey,Christa J.",Female,Employee,50000,Per Annum,"DIRECTOR, GIFT UNIT"
+"Bailey,Robert T.",Male,Employee,44800,Per Annum,FINANCE MANAGER
+"Baldwin,Jenica L.",Female,Employee,31200,Per Annum,EXECUTIVE ASSISTANT TO THE DIRECTOR
+"Ball,Andrea G.",Female,Employee,125000,Per Annum,DEPUTY ASSISTANT TO THE PRESIDENT AND CHIEF OF STAFF TO THE FIRST LADY
+"Barclay,Barbara A.",Female,Employee,80565,Per Annum,EXECUTIVE ASSISTANT
+"Barfield,Tiffany L.",Female,Employee,35000,Per Annum,DEPUTY DIRECTOR SCHEDULING AND ADVANCE
+"Barks,Campbell L.",Female,Employee,30000,Per Annum,GIFT ANALYST
+"Barnes,Donna M.",Female,Employee,38672,Per Annum,TELEPHONE SERVICE ASSISTANT
+"Barnette,Elisha I.",Female,Detailee,44049,Per Annum,CORRESPONDENCE ANALYST
+"Barrales,Ruben S.",Male,Employee,125000,Per Annum,"DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR, INTERGOVERNMENTAL AFFAIRS"
+"Bartlett,Daniel Joseph",Male,Employee,151000,Per Annum,ASSISTANT TO THE PRESIDENT FOR COMMUNICATIONS
+"Bartolomucci,H. Christopher",Male,Employee,109300,Per Annum,ASSOCIATE COUNSEL TO THE PRESIDENT
+"Baumgardner,Healy E.",Female,Employee,35000,Per Annum,EXECUTIVE ASSISTANT TO THE DIRECTOR
+"Bean,Eileen F.",Female,Employee,55859,Per Annum,TELEPHONE SERVICE ASSISTANT
+"Bearson,Darren W.",Male,Employee,62500,Per Annum,ASSOCIATE POLITICAL DIRECTOR
+"Becker,Emmaley A.",Female,Employee,31200,Per Annum,CORRESPONDENCE ANALYST AND VOLUNTEER COORDINATOR
+"Becker,Kathleen J.",Female,Employee,50000,Per Annum,HOTEL PROGRAM MANAGER
+"Bennett,Melissa S.",Female,Employee,75000,Per Annum,"DIRECTOR, OFFICE OF THE CHIEF OF STAFF"
+"Benson,Latoya A.",Female,Employee,36255,Per Annum,RECORDS MANAGEMENT ANALYST
+"Bernard,Kenneth",Male,Detailee,174000,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND SENIOR DIRECTOR FOR BIODEFENSE
+"Besanceney,Brian R.",Male,Employee,93700,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR OF COMMUNICATION FOR PLANNING
+"Beyer,Todd W.",Male,Employee,83300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR OF ADVANCE
+"Binns,Mary U.",Female,Employee,51449,Per Annum,SPECIAL ASSISTANT
+"Bird,Debra D.",Female,Employee,69054,Per Annum,EXECUTIVE ASSISTANT
+"Blahous,Charles P.",Male,Employee,109300,Per Annum,"SPECIAL ASSISTANT TO THE PRESIDENT FOR ECONOMIC POLICY, OFFICE OF POLICY DEVELOPMENT"
+"Blakeman,Bradley A.",Male,Employee,125000,Per Annum,DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR OF APPOINTMENTS AND SCHEDULING
+"Blossman,Robert B.",Male,Employee,59800,Per Annum,DIRECTOR OF SPECIAL PROJECTS
+"Boisvenue,Michael J.",Male,Employee,65000,Per Annum,"DIRECTOR, WHITE HOUSE MANAGEMENT OFFICE"
+"Bolten,Joshua B.",Male,Employee,151000,Per Annum,ASSISTANT TO THE PRESIDENT AND DEPUTY CHIEF OF STAFF
+"Bourke,Michael P.",Male,Employee,30000,Per Annum,CORRESPONDENCE ANALYST
+"Bourns,Lindsay J.",Female,Employee,36000,Per Annum,TRIP COORDINATOR
+"Boyd,Allison J.",Female,Employee,55000,Per Annum,"SPECIAL ADVISOR TO THE DOMESTIC POLICY COUNCIL, OFFICE OF POLICY DEVELOPMENT"
+"Brancato,Keith R.",Male,Employee,34700,Per Annum,DEPUTY ASSOCIATE DIRECTOR
+"Bravo,Brian D.",Male,Employee,33700,Per Annum,PRESS ASSISTANT
+"Brecht-Clark,Jan M.",Female,Detailee,131881,Per Annum,DIRECTOR FOR TRANSPORTATION AND AVIATION SECURITY
+"Bridgeland,John Marshall",Male,Employee,151000,Per Annum,ASSISTANT TO THE PRESIDENT AND DIRECTOR USA FREEDOM CORPS
+"Brooke,Mary J.",Female,Employee,53298,Per Annum,"SUPERVISOR, CORRESPONDENCE REVIEW UNIT"
+"Brosnahan,Jennifer R.",Female,Employee,93700,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE COUNSEL
+"Brown,Reginald J.",Male,Employee,93700,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE COUNSEL
+"Buchan,Claire E.",Female,Employee,109300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY PRESS SECRETARY
+"Bullock,Katja",Female,Employee,93700,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE DIRECTOR
+"Bumatay,Patrick J.",Male,Employee,39200,Per Annum,PARALEGAL
+"Burch,Therese M.",Female,Employee,51600,Per Annum,LEAD ADVANCE
+"Burgeson,Christine M.",Female,Employee,109300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS (SENATE)
+"Burke,John G.",Male,Employee,83300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT FOR INTERGOVERNMENTAL AFFAIRS - MAYORS
+"Burks,Jonathan W.",Male,Employee,83300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE STAFF SECRETARY
+"Burns,Patrick A.",Male,Detailee,99186,Per Annum,"DIRECTOR, CRITICAL INFRASTRUCTURE PROTECTION"
+"Cabral,Raquel",Female,Employee,45000,Per Annum,EXECUTIVE ASSISTANT
+"Campbell,Anne E.",Female,Employee,57300,Per Annum,SPECIAL ASSISTANT TO THE DIRECTOR OF SPEECHWRITING
+"Campbell,Frances L.",Female,Employee,69054,Per Annum,SUPERVISOR DATA ENTRY UNIT
+"Campbell,Sarah E.",Female,Employee,37500,Per Annum,DEPUTY DIRECTOR
+"Card,Andrew H.,Jr.",Male,Employee,151000,Per Annum,ASSISTANT TO THE PRESIDENT AND CHIEF OF STAFF
+"Cardamone,Denise",Female,Employee,34000,Per Annum,WRITER
+"Carl,Jeremy A.",Male,Employee,30000,Per Annum,CORRESPONDENCE ANALYST
+"Carroll,Colleen M.",Female,Employee,50000,Per Annum,SPEECHWRITER
+"Carroll,James W.,Jr.",Male,Detailee,95129,Per Annum,CLEARANCE COUNSEL
+"Cassano,Lois A.",Female,Employee,43600,Per Annum,MEDIA ASSISTANT
+"Cervantes,Jennifer L.",Female,Employee,50000,Per Annum,DEPUTY ASSOCIATE DIRECTOR
+"Chadwick,Kirsten A.",Female,Employee,109300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS
+"Chafin,Daniel L.",Male,Employee,30000,Per Annum,STAFF ASSISTANT
+"Chambers,Shane P.",Male,Employee,37500,Per Annum,DEPUTY DIRECTOR
+"Christie,Ronald I.",Male,Employee,93700,Per Annum,"SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR, USA FREEDOM CORPS"
+"Ciliberti,Eric J.",Male,Employee,55400,Per Annum,ASSOCIATE DIRECTOR
+"Clark,Alicia M. Peterson",Female,Employee,93700,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR OF STRATEGIC INITIATIVE
+"Clarke,Kay F.",Female,Employee,38672,Per Annum,TELEPHONE SERVICE ASSISTANT
+"Cleveland,Carolyn E.",Female,Employee,95204,Per Annum,EXECUTIVE ASSISTANT
+"Coker,Elizabeth E.",Female,Employee,32000,Per Annum,STAFF ASSISTANT
+"Conway,Thais C.",Female,Employee,39600,Per Annum,DIRECTOR OF LEGISLATIVE CORRESPONDENCE
+"Cooper,Jean S.",Female,Employee,45000,Per Annum,"EXECUTIVE ASSISTANT, OFFICE OF POLICY DEVELOPMENT"
+"Cooper,Rory S.",Male,Detailee,46469,Per Annum,ASSOCIATE DIRECTOR
+"Cossiboom,Brian S.",Male,Employee,30000,Per Annum,STAFF ASSISTANT
+"Cousley,Margaret A.",Female,Employee,35000,Per Annum,EXECUTIVE ASSISTANT
+"Covelli-Ingwell,Carmen M.",Female,Employee,45000,Per Annum,SPECIAL ASSISTANT FOR CABINET AFFAIR
+"Cowdry,Rex W.",Male,Employee,55000,Per Annum,"ASSOCIATE DIRECTOR, OFFICE OF POLICY DEVELOPMENT"
+"Cox,Christopher C.",Male,Employee,109300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS (HOUSE)
+"Crable,Lynn Allison",Female,Employee,67749,Per Annum,LEAD PRESIDENTIAL SUPPORT SPECIALIST
+"Cushman,Cameron W.",Male,Employee,33800,Per Annum,EXECUTIVE ASSISTANT
+"Davis,Alicia W.",Female,Employee,65300,Per Annum,ASSOCIATE POLITICAL DIRECTOR
+"Dayspring,Brad D.",Male,Employee,42790,Per Annum,DEPUTY ASSOCIATE DIRECTOR OF PRESS ADVANCE
+"Deckard,Joshua S.",Male,Employee,32700,Per Annum,PRESS ASSISTANT
+"DeFrancis,Suzanne C.",Female,Employee,125000,Per Annum,DEPUTY ASSISTANT TO THE PRESIDENT FOR COMMUNICATION
+"DeGuzman,Danilo,Jr.",Male,Employee,47039,Per Annum,PRESIDENTIAL SUPPORT SPECIALIST
+"DeServi,Robert G.",Male,Employee,70780,Per Annum,ASSOCIATE DIRECTOR OF COMMUNICATIONS FOR PRODUCTION
+"Dickens,Sam Reed",Male,Employee,51200,Per Annum,ASSISTANT PRESS SECRETARY
+"Dickey,Lana H.",Female,Employee,58145,Per Annum,"DIRECTOR, PRESIDENTIAL PROCLAMATIONS"
+"Donnan,Elizabeth H.",Female,Employee,31380,Per Annum,PRESS ASSISTANT
+"Doty,Joan R.",Female,Employee,32700,Per Annum,SENIOR WRITER
+"Dougherty,Elizabeth Smith",Female,Employee,98000,Per Annum,"SPECIAL ASSISTANT TO THE PRESIDENT FOR DOMESTIC POLICY, OFFICE OF POLICY DEVELOPMENT"
+"Douglas,James C.",Male,Detailee,131881,Per Annum,DIRECTOR FOR RESPONSE AND PLANNING.
+"Douglas,Penny G.",Female,Employee,43000,Per Annum,STAFF ASSISTANT
+"Douglass,Kimberly A.",Female,Employee,52300,Per Annum,SPECIAL ASSISTANT FOR MANAGEMENT
+"Droege,Philip C.",Male,Employee,81602,Per Annum,"DEPUTY DIRECTOR, OFFICE OF RECORDS MANAGEMENT"
+"Drummond,Ashley D.",Female,Employee,35950,Per Annum,STAFF ASSISTANT
+"Dryden,Sara Elena F.",Female,Employee,36400,Per Annum,SENIOR ANALYST
+"Dunckel,Denise A.",Female,Employee,52100,Per Annum,SENIOR PRESS ADVANCE REPRESENTATIVE
+"Dunlap,Kristin D.",Female,Employee,34000,Per Annum,TRIP COORDINATOR
+"Dunn,David L.",Male,Employee,93700,Per Annum,"SPECIAL ASSISTANT TO THE PRESIDENT FOR DOMESTIC POLICY, OFFICE OF POLICY DEVELOPMENT"
+"Dunn,Kari M.",Female,Detailee,35000,Per Annum,CIVIL PARTICIPATION LIAISON
+"Dwight,Catherine Charity",Female,Employee,32400,Per Annum,STAFF ASSISTANT
+"Dyck,Paul B.",Male,Employee,65300,Per Annum,ASSOCIATE POLITICAL DIRECTOR
+"Edson,Gary R.",Male,Employee,125000,Per Annum,DEPUTY ASSISTANT TO THE PRESIDENT FOR INTERNATIONAL ECONOMIC AFFAIRS AND DEPUTY NATIONAL SECURITY ADVISOR
+"Ellis,Jamie D.",Female,Employee,34000,Per Annum,LEGISLATIVE ASSISTANT
+"Ellis,Joe W.",Male,Employee,51000,Per Annum,SENIOR LEAD ADVANCE REPRESENTATIVE
+"Ellis,Linda M.",Female,Employee,31072,Per Annum,TELEPHONE SERVICE ASSISTANT
+"Ellison,Kim D.",Female,Employee,41600,Per Annum,EXECUTIVE ASSISTANT
+"Eskew,Tucker A.",Male,Employee,125000,Per Annum,DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR OF GLOBAL COMMUNICATION
+"Estes,Ashley J.",Female,Employee,65300,Per Annum,PRESIDENT'S PERSONAL SECRETARY
+"Estes,John D.",Male,Employee,36400,Per Annum,DEPUTY ASSOCIATE DIRECTOR
+"Evans,Madalene E. W.",Female,Employee,48053,Per Annum,RECORDS MANAGEMENT ANALYST
+"Evans,Wanda M.",Female,Employee,49979,Per Annum,ASSISTANT TO THE EXECUTIVE CLERK
+"Everson,Nanette R.",Female,Employee,109300,Per Annum,ASSOCIATE COUNSEL TO THE PRESIDENT
+"Ewing,Jessica R.",Female,Employee,31200,Per Annum,"RESEARCH ASSISTANT, OFFICE OF POLICY DEVELOPMENT"
+"Fagan,Casey B.",Male,Employee,36000,Per Annum,"STAFF ASSISTANT, OFFICE OF POLICY DEVELOPMENT"
+"Fajors,Nique",Male,Detailee,81602,Per Annum,DEPARTMENT OF COMMERCE LIAISON
+"Falkenrath,Richard A.",Male,Employee,125000,Per Annum,DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY HOMELAND SECURITY ADVISOR
+"Farley,Jennifer Michelle",Female,Employee,41600,Per Annum,DEPUTY ASSOCIATE DIRECTOR
+"Farrell,Jayne Elizabeth",Female,Employee,36000,Per Annum,STAFF ASSISTANT
+"Fenton,Catherine S.",Female,Employee,105000,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND WHITE HOUSE SOCIAL SECRETARY
+"Figg,Jeanie L.",Female,Employee,56900,Per Annum,DEPUTY SOCIAL SECRETARY
+"Figg,Kara G.",Female,Employee,54400,Per Annum,DEPUTY DIRECTOR OF APPOINTMENTS AND SCHEDULING
+"Fitzgerald,Heather R.",Female,Employee,34900,Per Annum,STAFF ASSISTANT
+"Fleischer,Lawrence A.",Male,Employee,151000,Per Annum,ASSISTANT TO THE PRESIDENT AND WHITE HOUSE PRESS SECRETARY
+"Flowers,Romayne C.",Female,Detailee,31397,Per Annum,CORRESPONDENCE ANALYST
+"Foley,Jennifer Ann",Female,Employee,34800,Per Annum,MEDIA COORDINATOR
+"Freeman,Myra B.",Female,Employee,52058,Per Annum,RECORDS MANAGEMENT ANALYST
+"Friedman,Stephen",Male,Employee,151000,Per Annum,"ASSISTANT TO THE PRESIDENT FOR ECONOMIC POLICY, AND DIRECTOR, NATIONAL ECONOMIC COUNCIL"
+"Fullerton,Laura Funderburk",Female,Detailee,66229,Per Annum,SPECIAL ASSISTANT TO THE EXECUTIVE SECRETARY
+"Gambatesa,Linda M.",Female,Employee,125000,Per Annum,"DEPUTY ASSISTANT TO THE PRESIDENT FOR MANAGEMENT, ADMINISTRATION AND OVAL OFFICE OPERATIONS"
+"Gannon,Kelley Lynn",Female,Employee,83300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR OF ADVANCE FOR PRESS
+"Ganter,Jonathan F.",Male,Employee,36000,Per Annum,STAFF ASSISTANT
+"Gerdelman,Sue H.",Female,Employee,62500,Per Annum,"ASSOCIATE DIRECTOR, OFFICE OF POLICY DEVELOPMENT"
+"Gerson,Michael J.",Male,Employee,151000,Per Annum,ASSISTANT TO THE PRESIDENT FOR SPEECHWRITING AND POLICY ADVISOR
+"Gill,Faisal M.",Male,Detailee,78265,Per Annum,ASSOCIATE COUNSEL
+"Gillbert,Marshal Alan",Male,Employee,93700,Per Annum,"SPECIAL ASSISTANT TO THE PRESIDENT FOR DOMESTIC POLICY, OFFICE OF POLICY DEVELOPMENT"
+"Gillmore,Eleanor L.",Female,Employee,43600,Per Annum,"EXECUTIVE ASSISTANT TO THE PRESIDENT FOR DOMESTIC POLICY, OFFICE OF POLICY DEVELOPMENT"
+"Gladney,Zachry T.",Male,Employee,31200,Per Annum,"STAFF ASSISTANT, OFFICE OF POLICY DEVELOPMENT"
+"Godfrey,Georgia D.",Female,Employee,33700,Per Annum,PRESS ASSISTANT
+"Goeglein,Timothy S.",Male,Employee,93700,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR OF PUBLIC LIAISON
+"Goergen,Barbara Jo",Female,Employee,35000,Per Annum,STAFF ASSISTANT
+"Goldman,Adam B.",Male,Employee,83300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR OFFICE OF PUBLIC LIAISON
+"Gonzales,Alberto R.",Male,Employee,151000,Per Annum,ASSISTANT TO THE PRESIDENT AND WHITE HOUSE COUNSEL
+"Good,Terry W.",Male,Employee,121583,Per Annum,"DIRECTOR, OFFICE OF RECORDS MANAGEMENT"
+"Gordon,Janet V.",Female,Employee,46718,Per Annum,TELEPHONE SERVICE ASSISTANT
+"Gordon,John A.",Male,Employee,151000,Per Annum,ASSISTANT TO THE PRESIDENT FOR HOMELAND SECURITY
+"Gottesman,Blake L.",Male,Employee,52100,Per Annum,PERSONAL AIDE TO THE PRESIDENT
+"Gottshall,Donna B.",Female,Employee,38100,Per Annum,EXECUTIVE ASSISTANT
+"Grace,Dennis J.",Male,Employee,93700,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT FOR ADMINISTRATIVE REFORM
+"Graham,Lottie B.",Female,Employee,46718,Per Annum,TELEPHONE SERVICE ASSISTANT
+"Grant,Britt C.",Female,Employee,57300,Per Annum,SPECIAL ASSISTANT TO THE DIRECTOR
+"Gray,Adrian G.",Male,Employee,54000,Per Annum,DEPUTY DIRECTOR OF SCHEDULING - SURROGATE SCHEDULING
+"Gray,Ann Patzke",Female,Employee,36400,Per Annum,WEST WING RECEPTIONIST
+"Gray,Terra L.",Female,Employee,57300,Per Annum,DIRECTOR OF ADVANCE FOR THE FIRST LADY
+"Greene,William P.",Male,Employee,54400,Per Annum,ASSOCIATE DIRECTOR
+"Grier,Judy E.",Female,Employee,36255,Per Annum,RECORDS MANAGEMENT ANALYST
+"Gross,Taylor S.",Female,Employee,55000,Per Annum,SPOKESMAN AND DIRECTOR OF RADIO
+"Grove,Justin A.",Male,Employee,35900,Per Annum,"ASSOCIATE DIRECTOR, WHITE HOUSE COMMENTS LINE AND GREETINGS OFFICE"
+"Grubbs,Wendy J.",Female,Employee,109300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS
+"Guerra,Abel",Male,Employee,49000,Per Annum,ASSOCIATE DIRECTOR OF PUBLIC LIAISON
+"Hadley,Stephen J.",Male,Employee,151000,Per Annum,ASSISTANT TO THE PRESIDENT AND DEPUTY NATIONAL SECURITY ADVISOR
+"Hagin,Joseph W.",Male,Employee,151000,Per Annum,ASSISTANT TO THE PRESIDENT AND DEPUTY CHIEF OF STAFF
+"Halaska,Terrell L.",Female,Employee,93700,Per Annum,"SPECIAL ASSISTANT TO THE PRESIDENT FOR DOMESTIC POLICY, OFFICE OF POLICY DEVELOPMENT"
+"Hall,Philo D.",Male,Employee,54400,Per Annum,"ASSOCIATE DIRECTOR FOR DOMESTIC POLICY (HEALTH), OFFICE OF POLICY DEVELOPMENT"
+"Hansen,Nancy Glenn",Female,Employee,38100,Per Annum,EDITOR/QUALITY CONTROL
+"Hanson,Andrew D.",Male,Detailee,75112,Per Annum,INTERGOVERNMENTAL LIAISON
+"Hanson,Timothy B.",Male,Employee,34000,Per Annum,WRITER
+"Hanusa,Mary Ann",Female,Employee,51200,Per Annum,DIRECTOR PRESIDENTIAL PERSONAL CORRESPONDENCE
+"Harrelson,Leah J.",Female,Employee,36900,Per Annum,EXECUTIVE ASSISTANT
+"Hayes,Kathryn J.",Female,Employee,43600,Per Annum,ASSOCIATE DIRECTOR
+"Healy,Erin E.",Female,Employee,46800,Per Annum,ASSOCIATE DIRECTOR OF COMMUNICATIONS
+"Heath,Michael B.",Male,Employee,55200,Per Annum,SENIOR ADVANCE REPRESENTATIVE
+"Heiligenstein,Anne",Female,Employee,85000,Per Annum,DIRECTOR OF PROJECTS
+"Heironimus,Patrice N.",Female,Employee,30000,Per Annum,CORRESPONDENCE ANALYST
+"Henneke,Aimee L.",Female,Employee,30000,Per Annum,CASEWORKER
+"Hennessey,Keith B.",Male,Employee,125000,Per Annum,"DEPUTY ASSISTANT TO THE PRESIDENT FOR ECONOMIC POLICY AND DEPUTY DIRECTOR, NATIONAL ECONOMIC COUNCIL, OFFICE OF POLICY DEVELOPMENT"
+"Henry,John R.",Male,Employee,50000,Per Annum,DIRECTOR
+"Hernandez,Israel",Male,Employee,125000,Per Annum,DEPUTY ASSISTANT TO THE PRESIDENT AND ASSISTANT TO THE SENIOR ADVISOR
+"Hester,Bradley E.",Male,Employee,62500,Per Annum,ASSOCIATE POLITICAL DIRECTOR
+"Higbee,David",Male,Detailee,137543,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE DIRECTOR
+"Hildebrand,Katherine S.",Female,Employee,32000,Per Annum,STAFF ASSISTANT
+"Hildebrand,Kirsten J.",Female,Detailee,78265,Per Annum,DIRECTOR FOR DOMESTIC COUNTERTERRORISM POLICY
+"Hill,David H.",Male,Employee,40000,Per Annum,DEPUTY ASSOCIATE DIRECTOR
+"Hobbs,David W.",Male,Employee,151000,Per Annum,ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS
+"Hogan,E. Elizabeth",Female,Employee,52600,Per Annum,ASSOCIATE DIRECTOR
+"Holbrook,Ashley A.",Female,Employee,28100,Per Annum,STAFF ASSISTANT
+"Holladay,Winton Westbrook",Male,Employee,34325,Per Annum,ASSOCIATE DIRECTOR OF SCHEDULING FOR INVITATIONS AND CORRESPONDENCE
+"Holt,David F.",Male,Employee,40000,Per Annum,SPECIAL ASSISTANT TO THE DEPUTY ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS (HOUSE)
+"Homan,Anita",Female,Employee,40000,Per Annum,"DIRECTOR, CORRESPONDENCE PERSONNEL"
+"Homeyer,Wendy Nipper",Female,Employee,48100,Per Annum,SPECIAL ASSISTANT TO THE DIRECTOR
+"House,Emily A.",Female,Employee,40044,Per Annum,EXECUTIVE ASSISTANT
+"Howe,David W.",Male,Employee,109300,Per Annum,ACTING SENIOR DIRECTOR OF RESPONSE AND RECOVERY
+"Howerton,Barbara E.",Female,Employee,59300,Per Annum,SPECIAL ASSISTANT
+"Hughes,Taylor A.",Female,Employee,40000,Per Annum,EXECUTIVE ASSISTANT TO THE CABINET SECRETARY AND SPECIAL PROJECTS COORDINATOR
+"Hughes,William C.",Male,Employee,46000,Per Annum,SENIOR PRESS ADVANCE REPRESENTATIVE
+"Huguet,Lauren K.",Female,Employee,32000,Per Annum,INVITATION ASSISTANT
+"Ingols,Adam B.",Male,Employee,53300,Per Annum,SPECIAL ASSISTANT TO THE ASSISTANT TO THE PRESIDENT
+"Irwin,Richard G.",Male,Detailee,104336,Per Annum,DIRECTOR FOR INCIDENT MANAGEMENT
+"Jablonka,Curtis R.",Male,Employee,41600,Per Annum,TRAVEL MANAGER
+"Jackson,Barry S.",Male,Employee,125000,Per Annum,DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY TO THE SENIOR ADVISOR
+"James,Theodoric C.,Jr.",Male,Employee,52058,Per Annum,RECORDS MANAGEMENT ANALYST
+"Jenkins,Gregory J.",Male,Employee,125000,Per Annum,DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR OF ADVANCE
+"Jensen-Cunniffe,Amy L.",Female,Employee,109300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS
+"Jesmer,Kendall McCulloch",Female,Employee,31200,Per Annum,STAFF ASSISTANT
+"Jezierski,Jeffrey T.",Male,Employee,46800,Per Annum,DEPUTY ASSISTANT DIRECTOR
+"Johnson,Sydney R.",Female,Employee,57700,Per Annum,DIRECTOR OF CORRESPONDENCE FOR THE FIRST LADY
+"Johnston,Megan R.",Female,Employee,40000,Per Annum,SPECIAL ASSISTANT TO THE SOCIAL SECRETARY
+"Jones,Brian Christopher",Male,Employee,36400,Per Annum,RESEARCH ASSISTANT
+"Jones,Crystal B.",Female,Employee,58070,Per Annum,"ASSISTANT SUPERVISOR, DATA ENTRY UNIT"
+"Jones,Cyril",Male,Employee,48053,Per Annum,SENIOR CORRESPONDENCE ANALYST
+"Jones,Deborah A.",Female,Employee,45383,Per Annum,RECORDS MANAGEMENT ANALYST
+"Jones,Sarah A.",Female,Employee,56200,Per Annum,SPECIAL ASSISTANT TO THE DEPUTY ASSISTANT TO THE PRESIDENT
+"Jucas,Tracy A.",Female,Employee,40000,Per Annum,EXECUTIVE ASSISTANT
+"Justesen,Troy R.",Male,Employee,54000,Per Annum,"ASSOCIATE DIRECTOR, OFFICE OF POLICY DEVELOPMENT"
+"Kalbaugh,David E.",Male,Employee,89764,Per Annum,DEPUTY EXECUTIVE CLERK
+"Kaplan,Joel D.",Male,Employee,109300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT
+"Kavanaugh,Brett M.",Male,Employee,109300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND SENIOR ASSOCIATE COUNSEL TO THE PRESIDENT
+"Keenan,Josefine",Female,Detailee,58857,Per Annum,EXECUTIVE ASSISTANT
+"Kelly,James M.",Male,Employee,83300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT FOR INTERGOVERNMENTAL AFFAIRS
+"Keniry,Daniel J.",Male,Employee,125000,Per Annum,DEPUTY ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS (HOUSE)
+"King,Taeshonnda Cheralyn",Female,Employee,38672,Per Annum,RECORDS MANAGEMENT ANALYST
+"Kirby,Guy R.",Male,Employee,32736,Per Annum,CORRESPONDENCE ANALYST
+"Kirk,Matthew R.",Male,Employee,109300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS (SENATE)
+"Kladakis,Monica Vegas",Female,Employee,109300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE DIRECTOR
+"Knight,Barbara B.",Female,Employee,40000,Per Annum,DEPUTY PRESS SECRETARY
+"Kozberg,Lindsey C.",Female,Employee,83300,Per Annum,"SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR OF PUBLIC AND POLITICAL AFFAIRS, USA FREEDOM CORPS"
+"Kropp,Emily L.",Female,Employee,30000,Per Annum,ASSISTANT TO THE DIRECTOR OF RESEARCH
+"Kuchmy,Lorraine M.",Female,Employee,32700,Per Annum,STAFF ASSISTANT
+"Kuo,J. David",Male,Employee,109300,Per Annum,"SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR, OFFICE OF FAITH-BASED AND COMMUNITY INITIATIVES"
+"Kupfer,Jeffrey",Male,Detailee,137543,Per Annum,SPECIAL ASSISTANT TO THE CHIEF OF STAFF
+"Kurtz,Paul B.",Male,Employee,109300,Per Annum,"SPECIAL ASSISTANT TO THE PRESIDENT AND SENIOR DIRECTOR, CRITICAL INFRASTRUCTURE PROTECTION"
+"Kuzmich,Holly A.",Female,Employee,54000,Per Annum,"ASSOCIATE DIRECTOR, OFFICE OF POLICY DEVELOPMENT"
+"Kyle,Ross M.",Male,Employee,42700,Per Annum,EXECUTIVE ASSISTANT TO THE DEPUTY CHIEF OF STAFF
+"Lanza,Kenneth A.",Male,Detailee,103715,Per Annum,USAID LIAISON
+"Lartey,Solomon D.",Male,Employee,36333,Per Annum,MAIL CLERK/CORRESPONDENCE ANALYST
+"Leckey,Eric M.",Male,Employee,35000,Per Annum,ASSOCIATE DIRECTOR FOR CORRESPONDENCE AND RECORDS MANAGEMENT
+"Lefkowitz,Jay P.",Male,Employee,135300,Per Annum,DEPUTY ASSISTANT TO THE PRESIDENT FOR DOMESTIC POLICY
+"Leitch,David G.",Male,Employee,135300,Per Annum,DEPUTY COUNSEL TO THE PRESIDENT
+"Leitten,Jude S.",Male,Employee,32736,Per Annum,CORRESPONDENCE ANALYST
+"Levine,Adam L.",Male,Employee,75000,Per Annum,ASSISTANT PRESS SECRETARY
+"Lewis,Sharon R.",Female,Employee,54389,Per Annum,"ASSOCIATE DIRECTOR, MAIL ANALYSIS"
+"Lezotte,Darin R.",Male,Employee,36255,Per Annum,RECORDS MANAGEMENT ANALYST
+"Liang,Elan",Male,Employee,109300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS (HOUSE)
+"Libby,I. Lewis",Male,Employee,151000,Per Annum,ASSISTANT TO THE PRESIDENT AND CHIEF OF STAFF TO THE VICE PRESIDENT
+"Linder,Stephanie E.",Female,Employee,47410,Per Annum,DEPUTY ASSOCIATE DIRECTOR OF ADVANCE FOR PERSONNEL
+"Lineberry,Stephen M.",Male,Employee,36400,Per Annum,DEPUTY ASSOCIATE DIRECTOR
+"Lineweaver,Lindsey M.",Female,Employee,40000,Per Annum,SPECIAL ASSISTANT AND PERSONAL AIDE TO THE FIRST LADY
+"Liptock,Elizabeth",Female,Employee,54400,Per Annum,SPEECHWRITER
+"Lisaius,Kenneth A.",Male,Employee,65300,Per Annum,SPOKESMAN
+"Litkenhaus,Colleen J.",Female,Employee,83300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT FOR MANAGEMENT AND ADMINISTRATION
+"Lonick,Elizabeth A.",Female,Employee,31000,Per Annum,STAFF ASSISTANT
+"Loovis,Katie R.",Female,Employee,31000,Per Annum,STAFF ASSISTANT
+"Loper,Virginia Gregory",Female,Employee,83300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS (SENATE)
+"Lyons,Therese M.",Female,Employee,83300,Per Annum,DIRECTOR FOR PUBLIC LIAISON
+"MacNab,Erzsebet",Female,Employee,42000,Per Annum,STAFF ASSISTANT
+"Mallea,Jose M.",Male,Employee,52100,Per Annum,STAFF ASSISTANT
+"Malphrus,Gerry D.",Male,Employee,54400,Per Annum,"ASSOCIATE DIRECTOR, OFFICE OF POLICY DEVELOPMENT"
+"Mamo,Jean S.",Female,Employee,83300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR OF MEDIA AFFAIRS
+"Manning,Brooke H.",Female,Employee,28100,Per Annum,LEGISLATIVE CORRESPONDENT
+"Marchionna,Gabrielle M.",Female,Employee,30441,Per Annum,CORRESPONDENCE ANALYST
+"Mark,David M.",Male,Employee,41600,Per Annum,COMMUNICATIONS COORDINATOR
+"Marquez,Heidi K.",Female,Employee,83300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR OF PRESIDENTIAL CORRESPONDENCE
+"Marsh,Robert H.",Male,Employee,109300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS (HOUSE)
+"Marshall,Bonny Kate",Female,Employee,34025,Per Annum,ASSOCIATE DIRECTOR FOR SCHEDULING CORRESPONDENCE
+"Marshall,Misty C.",Female,Employee,50000,Per Annum,"DIRECTOR, PRESIDENTIAL MESSAGES"
+"Mattson,Philip C.",Male,Employee,41379,Per Annum,PRINTER AND PHOTOGRAPH COORDINATOR
+"McCarthy,Daniel M.",Male,Employee,33800,Per Annum,STAFF ASSISTANT
+"McCathran,William W.",Male,Employee,73659,Per Annum,ASSISTANT EXECUTIVE CLERK
+"McClellan,Scott K.",Male,Employee,125000,Per Annum,DEPUTY ASSISTANT TO THE PRESIDENT AND PRINCIPAL DEPUTY PRESS SECRETARY
+"McConnell,John P.",Male,Employee,125000,Per Annum,"DEPUTY ASSISTANT TO THE PRESIDENT, DEPUTY DIRECTOR OF SPEECHWRITING AND ASSISTANT TO THE VICE PRESIDENT"
+"McCord,Lauren W.",Female,Employee,41600,Per Annum,EXECUTIVE ASSISTANT TO THE CHIEF OF STAFF
+"McDaniel,Andrea L.",Female,Employee,39200,Per Annum,STAFF ASSISTANT
+"McDonald,Brian E.",Male,Employee,38000,Per Annum,CORRESPONDENCE ANALYST AND WEB MAIL ADMINISTRATOR
+"McDonald,Rebekah E.",Female,Employee,33300,Per Annum,EXECUTIVE ASSISTANT TO THE DIRECTOR FOR STRATEGIC INITIATIVES
+"McFadden,Gwendolyn S.",Female,Detailee,61376,Per Annum,CORRESPONDENCE ANALYST
+"McIntosh,Sara B.",Female,Employee,31200,Per Annum,WRITER
+"McKeown,Kathryn M.",Female,Employee,80565,Per Annum,TELEPHONE SERVICE ASSISTANT
+"McNally,Edward E.",Male,Employee,109300,Per Annum,SENIOR ASSOCIATE COUNSEL TO THE PRESIDENT AND GENERAL COUNSEL OF THE OFFICE OF HOMELAND SECURITY
+"McQuade,Vickie A.",Female,Employee,72900,Per Annum,EXECUTIVE ASSISTANT TO THE PRESS SECRETARY
+"McRae,Deborah E.",Female,Detailee,87043,Per Annum,ASSOCIATE DIRECTOR FOR SECURITY
+"Medina,Sonya E.",Female,Employee,52070,Per Annum,ASSISTANT DIRECTOR OF PROJECTS AND POLICY ADVISOR
+"Meece,Michael E.",Male,Employee,93700,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR OF PUBLIC LIAISON
+"Middlemas,Amanda Morgan",Female,Employee,52100,Per Annum,STAFF ASSISTANT
+"Miers,Harriet E.",Female,Employee,151000,Per Annum,ASSISTANT TO THE PRESIDENT AND STAFF SECRETARY
+"Millison,Chad L.",Male,Employee,36255,Per Annum,RECORDS MANAGEMENT ANALYST
+"Mollman,Megan S.",Female,Employee,35000,Per Annum,MEDIA COORDINATOR
+"Montgomery,Brian D.",Male,Employee,125000,Per Annum,DEPUTY ASSISTANT TO THE PRESIDENT AND CABINET SECRETARY
+"Montiel,Charlotte L.",Female,Employee,38100,Per Annum,EXECUTIVE ASSISTANT TO THE DEPUTY COUNSEL TO THE PRESIDENT
+"Motley,Eric L.",Male,Employee,83300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE DIRECTOR
+"Moy,Edmund C.",Male,Employee,109300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE DIRECTOR
+"Murray,Airen E.",Male,Employee,30000,Per Annum,GIFT ANALYST
+"Mynster,Kathleen H.",Female,Employee,57300,Per Annum,DEPUTY PRESS SECRETARY
+"Nash,Charles B.",Male,Employee,75961,Per Annum,"SUPERVISOR, OPTICAL DISK UNIT"
+"Nelson,Carolyn M.",Female,Employee,44800,Per Annum,EXECUTIVE ASSISTANT TO THE COUNSEL TO THE PRESIDENT
+"Nelson,Daniel",Male,Detailee,81602,Per Annum,DIRECTOR OF SPECIALTY MEDIA
+"Neusner,Noam M.",Male,Employee,93700,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT FOR ECONOMIC SPEECHWRITING
+"Newstead,Jennifer G.",Female,Employee,109300,Per Annum,ASSOCIATE COUNSEL TO THE PRESIDENT
+"Nicholas,James Paul",Male,Employee,109300,Per Annum,DIRECTOR FOR CYBERSPACE SECURITY
+"O'Hollaren,Sean B.",Male,Employee,109300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS (SENATE)
+"O'Neil,Joseph F.",Male,Detailee,92060,Per Annum,"DIRECTOR OF OFFICE OF NATIONAL AIDS POLICY, OFFICE OF POLICY DEVELOPMENT"
+"Ojakli,Ziad S.",Male,Employee,125000,Per Annum,DEPUTY ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS (SENATE)
+"Orr,Christopher J.",Male,Employee,59900,Per Annum,DIRECTOR OF INTERNET NEWS SERVICES
+"Packard,Kathleen E.",Female,Detailee,59407,Per Annum,DIRECTOR FOR PLANS AND EXERCISES
+"Pagliocca,Theresa M.",Female,Employee,31380,Per Annum,PRESS ASSISTANT
+"Parell,Christie B.",Female,Employee,46000,Per Annum,DEPUTY ASSOCIATE DIRECTOR
+"Parker,Doris D.",Female,Employee,44049,Per Annum,RECORDS MANAGEMENT ANALYST
+"Parrozzo,Michelle L.",Female,Employee,31000,Per Annum,STAFF ASSISTANT
+"Peace,Cheryl D.",Female,Detailee,117061,Per Annum,"DIRECTOR, CYBER INFRASTRUCTURE PROTECTION"
+"Pedison,Beth",Female,Employee,51600,Per Annum,DIRECTOR
+"Pelletier,Eric",Male,Employee,125000,Per Annum,DEPUTY ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS
+"Pfeifle,Lauren M.",Female,Employee,50000,Per Annum,SENIOR PRESS ADVANCE REPRESENTATIVE
+"Phillips,Gary L.",Male,Detailee,110733,Per Annum,ETHICS ADVISOR
+"Pipes,Kasey S.",Female,Employee,49000,Per Annum,ASSOCIATE DIRECTOR
+"Pitts,Elizabeth A.",Female,Employee,38000,Per Annum,SENIOR EDITOR/WRITER
+"Plunkett,Wade M.",Male,Detailee,100645,Per Annum,"ATTORNEY, ETHICS ASSISTANT"
+"Podolske,Lewis R.",Male,Detailee,113543,Per Annum,DIRECTOR FOR RECOVERY
+"Poole,Conley,II",Male,Employee,43200,Per Annum,DEPUTY ASSOCIATE DIRECTOR
+"Popadiuk,Gregory",Male,Employee,41600,Per Annum,DEPUTY ASSOCIATE DIRECTOR
+"Powell,Benjamin A.",Male,Employee,109300,Per Annum,ASSOCIATE COUNSEL TO THE PRESIDENT
+"Powell,Dina H.",Female,Employee,151000,Per Annum,ASSISTANT TO THE PRESIDENT FOR PRESIDENTIAL PERSONNEL
+"Pratt,Robert Thomas,Jr.",Male,Employee,39000,Per Annum,SENIOR WRITER
+"Prendergast,Katherine M.",Female,Employee,41400,Per Annum,FINANCE AND LOGISTICS OFFICER
+"Price,Melissa R.",Female,Employee,35000,Per Annum,WRITER
+"Pritchett,Susan C.",Female,Employee,75000,Per Annum,"DIRECTOR, WHITE HOUSE VISITOR'S OFFICE"
+"Purcell,Kristopher N.",Male,Employee,41200,Per Annum,COMMUNICATIONS COORDINATOR
+"Raad,Lori J.",Female,Employee,70000,Per Annum,"DIRECTOR, WHITE HOUSE PERSONNEL"
+"Ralston,Susan B.",Female,Employee,64700,Per Annum,EXECUTIVE ASSISTANT TO THE SENIOR ADVISOR
+"Reardon,Brian F.",Male,Employee,109300,Per Annum,"SPECIAL ASSISTANT TO THE PRESIDENT FOR ECONOMIC POLICY, OFFICE OF POLICY DEVELOPMENT"
+"Recher,Jason J.",Male,Employee,40000,Per Annum,TRAVEL MANAGER
+"Reese,Shelley S.",Female,Employee,30000,Per Annum,STAFF ASSISTANT
+"Reid,Margaret A.",Female,Employee,35950,Per Annum,STAFF ASSISTANT
+"Reilly,Jeannette",Female,Employee,41200,Per Annum,DIRECTOR OF RESEARCH
+"Renner,Liza Wright",Female,Employee,109300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE DIRECTOR
+"Reynolds,Timothy L.",Male,Employee,32300,Per Annum,STAFF ASSISTANT
+"Rice,Condoleezza",Female,Employee,151000,Per Annum,ASSISTANT TO THE PRESIDENT FOR NATIONAL SECURITY AFFAIRS
+"Riecke,January M.",Female,Employee,56700,Per Annum,DIRECTOR OF SCHEDULING FOR THE FIRST LADY
+"Riepenhoff,Allison Leigh",Female,Employee,55000,Per Annum,EXECUTIVE ASSISTANT
+"Ritacco,Krista L.",Female,Employee,67400,Per Annum,EXECUTIVE ASSISTANT TO THE COMMUNICATION DIRECTOR
+"Roddick,Gertrude A.",Female,Employee,61942,Per Annum,"DIRECTOR, MAIL ANALYSIS"
+"Rodriguez,Leonard B.",Male,Employee,64100,Per Annum,ASSOCIATE POLITICAL DIRECTOR
+"Rodriguez,Noelia",Female,Employee,87100,Per Annum,DIRECTOR OF COMMUNICATIONS AND PRESS SECRETARY TO THE FIRST LADY
+"Rossillo,Edward J.",Male,Employee,40000,Per Annum,DEPUTY ASSOCIATE DIRECTOR
+"Roumel,Maria H.",Female,Employee,37500,Per Annum,DEPUTY DIRECTOR
+"Rounds,Emory A.,III",Female,Employee,90000,Per Annum,DEPUTY ASSOCIATE COUNSEL
+"Rove,Karl C.",Male,Employee,151000,Per Annum,SENIOR ADVISOR TO THE PRESIDENT
+"Rowe,Ian V.",Male,Employee,93700,Per Annum,DIRECTOR OF STRATEGY AND PERFORMANCE MEASUREMENT
+"Rowley,Eileen M.",Female,Employee,35400,Per Annum,"ASSOCIATE DIRECTOR, WHITE HOUSE COMMENTS LINE AND GREETINGS OFFICE"
+"Rowley,Jill C.",Female,Employee,37500,Per Annum,"DEPUTY DIRECTOR, PROCLAMATIONS"
+"Rust,Kathryn E.",Female,Employee,62100,Per Annum,EXECUTIVE ASSISTANT
+"Ryun,Catharine A.",Female,Employee,39000,Per Annum,EXECUTIVE ASSISTANT TO THE DIRECTOR
+"Sampson,D. Kyle",Male,Employee,109300,Per Annum,ASSOCIATE COUNSEL TO THE PRESIDENT
+"Samuels,Wendell A.,Jr.",Male,Employee,36255,Per Annum,RECORDS MANAGEMENT ANALYST
+"Sanders,Michael A.",Male,Employee,40600,Per Annum,"COORDINATOR, WHITE HOUSE INTERN PROGRAM"
+"Saunders,George Timothy",Male,Employee,115184,Per Annum,EXECUTIVE CLERK
+"Saxton,Virginia B.",Female,Employee,47900,Per Annum,DEPUTY ASSOCIATE DIRECTOR
+"Sayle,Desiree T.",Female,Employee,93700,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR OF PRESIDENTIAL CORRESPONDENCE
+"Schacht,Diana L.",Female,Employee,98000,Per Annum,"SPECIAL ASSISTANT TO THE PRESIDENT FOR JUSTICE POLICY, OFFICE OF POLICY DEVELOPMENT"
+"Scheneman,Elisabeth C.",Female,Employee,30000,Per Annum,STAFF ASSISTANT
+"Schlapp,Matthew A.",Male,Employee,125000,Per Annum,DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR OF POLITICAL AFFAIRS
+"Schlapp,Mercedes Viana",Female,Employee,59000,Per Annum,DIRECTOR OF SPECIALTY MEDIA
+"Schneider,Daniel C.",Male,Detailee,124783,Per Annum,DEPUTY ASSOCIATE DIRECTOR
+"Schreiber Hughes,Lisa B.",Female,Detailee,109925,Per Annum,DIRECTOR FOR CONSULAR AND INTERNATIONAL PROGRAMS
+"Scully,Matthew O.",Male,Employee,104100,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND SENIOR SPEECHWRITER FOR THE PRESIDENT
+"Sechser,Scott D.",Male,Employee,54100,Per Annum,OPERATIONS MANAGER
+"Sforza,Scott N.",Male,Employee,109300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR OF COMMUNICATION FOR PRODUCTION
+"Sharp,Jason S.",Male,Employee,30000,Per Annum,STAFF ASSISTANT
+"Sharp,Jess G.",Female,Employee,54000,Per Annum,"ASSOCIATE DIRECTOR, OFFICE OF POLICY DEVELOPMENT"
+"Sharp,Michael A.",Male,Employee,52919,Per Annum,SPECIAL ASSISTANT
+"Shourds,Cynthia L.",Female,Employee,60006,Per Annum,"ASSISTANT SUPERVISOR, CLASSIFICATION UNIT"
+"Showers,Wendy W.",Female,Employee,58145,Per Annum,"DIRECTOR, SUPPORT"
+"Shumaker,Patricia F.",Female,Employee,41379,Per Annum,SPECIAL ASSISTANT
+"Silverberg,Kristen L.",Female,Employee,125000,Per Annum,"SPECIAL ASSISTANT TO THE PRESIDENT FOR DOMESTIC POLICY, OFFICE OF POLICY DEVELOPMENT"
+"Simonds,Catherine M.",Female,Employee,31200,Per Annum,SENIOR GIFT ANALYST
+"Simpson,Wandra E.",Female,Employee,78263,Per Annum,SUPERVISOR SEARCH AND FILE UNIT
+"Skelly,Layton T.",Female,Employee,31200,Per Annum,"STAFF ASSISTANT, OFFICE OF POLICY DEVELOPMENT"
+"Smith,Bernice W.",Female,Employee,56529,Per Annum,PRESIDENTIAL SUPPORT SPECIALIST
+"Smith,Matthew E.",Male,Employee,46700,Per Annum,ASSOCIATE DIRECTOR
+"Smith,Marty P.",Male,Employee,39200,Per Annum,"EXECUTIVE ASSISTANT, OFFICE OF POLICY DEVELOPMENT"
+"Snee,Ashley",Female,Employee,52100,Per Annum,ASSISTANT PRESS SECRETARY
+"Sobich,Peter S.,Jr.",Male,Employee,93700,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY CABINET SECRETARY
+"Southerland,Virginia L.",Female,Employee,62991,Per Annum,TELEPHONE SERVICE ASSISTANT
+"Spellings,Margaret Mary",Female,Employee,151000,Per Annum,ASSISTANT TO THE PRESIDENT FOR DOMESTIC POLICY
+"Sproul,Jesse E.",Male,Employee,41600,Per Annum,TRAVEL MANAGER
+"Stanzel,Scott M.",Male,Employee,64300,Per Annum,SPOKESMAN
+"Stecher,Jennifer",Female,Employee,38700,Per Annum,DEPUTY ASSOCIATE DIRECTOR FOR OUTREACH
+"Steele,Sara M.",Female,Employee,30000,Per Annum,SPECIAL ASSISTANT TO THE DIRECTOR OF MEDIA AFFAIRS
+"Steen,Gretchen P.",Female,Employee,55775,Per Annum,ASSOCIATE DIRECTOR
+"Stiles,Ryan P.",Male,Employee,75000,Per Annum,DEPUTY COUNSEL TO THE PRESIDENT
+"Stout,Tim C.",Male,Employee,53600,Per Annum,EXECUTIVE SECRETARY
+"Stroot,Andrew H.",Male,Detailee,57421,Per Annum,ETHICS ADVISOR
+"Suitt,Deborah D.",Female,Employee,34919,Per Annum,TELEPHONE SERVICE ASSISTANT
+"Sullivan,Mark Jameson",Male,Employee,35900,Per Annum,STAFF ASSISTANT
+"Swinson,Lashawnda J.",Female,Employee,36255,Per Annum,SENIOR CORRESPONDENCE ANALYST
+"Taggart,Hugh T.,Jr.",Male,Employee,65813,Per Annum,"ASSISTANT SUPERVISOR, SEARCH AND FILE UNIT"
+"Taplett,Claire Ross",Female,Employee,37500,Per Annum,"DEPUTY DIRECTOR, GIFT UNIT"
+"Taylor,Michael J.",Male,Employee,36400,Per Annum,TRAVEL MANAGER
+"Teague,R. Cornell,Jr.",Male,Employee,36000,Per Annum,ASSOCIATE DIRECTOR
+"Terpeluk,Meredith A.",Female,Employee,50000,Per Annum,"DIRECTOR, HOMELAND SECURITY COUNCIL PUBLIC LIAISON"
+"Terrell,Eric W.",Male,Employee,75900,Per Annum,DIRECTOR
+"Theis,Nancy A.",Female,Employee,54400,Per Annum,"DIRECTOR, STUDENT CORRESPONDENCE"
+"Thomas,Edwin R.,III",Male,Employee,67749,Per Annum,ASSISTANT TO THE EXECUTIVE CLERK
+"Thomas,Julieanne H.",Female,Employee,57300,Per Annum,ASSOCIATE DIRECTOR
+"Thompson,Carol J.",Female,Employee,78100,Per Annum,"DEPUTY DIRECTOR, OFFICE OF POLICY DEVELOPMENT"
+"Threatt,Yolanda D.",Female,Detailee,43020,Per Annum,CORRESPONDENCE ANALYST
+"Torgerson,Karin B.",Female,Employee,109300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE STAFF SECRETARY
+"Towey,H. James,II",Male,Employee,135300,Per Annum,"DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR, OFFICE OF FAITH-BASED AND COMMUNITY INITIATIVES"
+"Trainor,Gregory T.",Male,Employee,47039,Per Annum,"MANAGER, DATA ENTRY"
+"Troy,Tevi D.",Male,Employee,93700,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY CABINET SECRETARY
+"Tucker,Kirstie W.",Female,Employee,50000,Per Annum,DEPUTY ASSOCIATE DIRECTOR
+"Tucker,Phyllis J.",Female,Employee,54913,Per Annum,"ASSISTANT SUPERVISOR, OPTICAL DISK UNIT"
+"Ullyot,Theodore W.",Male,Employee,109300,Per Annum,SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE COUNSEL
+"Vallecillo,Maria F.",Female,Detailee,60006,Per Annum,ETHICS ADVISOR
+"Van Riper,Jameson H.",Male,Employee,36100,Per Annum,PERSONNEL ASSISTANT
+"Vargo,Erin A.",Female,Employee,36100,Per Annum,RESEARCH ASSISTANT
+"Vestewig,Lauren J.",Female,Employee,43600,Per Annum,"EXECUTIVE ASSISTANT TO THE DEPUTY ASSISTANT TO THE PRESIDENT FOR DOMESTIC POLICY, OFFICE OF POLICY DEVELOPMENT"
+"Vogel,Daniel W.",Male,Employee,34000,Per Annum,WRITER
+"Walker,Eric A.",Male,Detailee,46460,Per Annum,STAFF ASSISTANT
+"Wallace,Charity Noel",Female,Detailee,48451,Per Annum,DEPUTY ASSOCIATE DIRECTOR FOR OUTREACH
+"Walsh,Edmund A.",Male,Employee,54400,Per Annum,SPEECHWRITER
+"Warsh,Kevin M.",Male,Employee,93700,Per Annum,"SPECIAL ASSISTANT TO THE PRESIDENT FOR ECONOMIC POLICY, OFFICE OF POLICY DEVELOPMENT"
+"Waters,James A.",Male,Employee,45000,Per Annum,DEPUTY DIRECTOR OF SCHEDULING FOR RESEARCH
+"Watkins,Peter S.",Male,Employee,46800,Per Annum,SENIOR PRESS ADVANCE REPRESENTATIVE
+"Watkins,Tiffany Ann",Female,Employee,38000,Per Annum,DEPUTY ASSOCIATE DIRECTOR
+"Wehner,Peter H.",Male,Employee,125000,Per Annum,DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR OF STRATEGIC INITIATIVES
+"Weinstein,Jared Berman",Male,Employee,32200,Per Annum,STAFF ASSISTANT
+"Wendel,Matthew L.",Male,Employee,51000,Per Annum,STAFF ASSISTANT
+"Werkhoven,Kristin M.",Female,Employee,32000,Per Annum,CORRESPONDENCE ANALYST
+"West,Christal R.",Female,Employee,47700,Per Annum,SPECIAL ASSISTANT TO THE DIRECTOR
+"Westine,Lezlee J.",Female,Employee,125000,Per Annum,DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR OF PUBLIC LIAISON
+"Westray,Howard R.",Male,Employee,41379,Per Annum,RECORDS MANAGEMENT ANALYST
+"White,Jeremy L.",Male,Employee,44800,Per Annum,ASSOCIATE DIRECTOR OF OUTREACH
+"Williams,Beverly D.",Female,Employee,34919,Per Annum,TELEPHONE SERVICE ASSISTANT
+"Williams,Jan Elizabeth",Female,Employee,54700,Per Annum,DEPUTY ASSOCIATE DIRECTOR
+"Williams,Sherman A.",Male,Employee,49979,Per Annum,ASSISTANT TO THE EXECUTIVE CLERK
+"Willson,Lauren L.",Female,Employee,49000,Per Annum,ASSOCIATE DIRECTOR
+"Wilson,Aiesha A.",Female,Employee,34919,Per Annum,TELEPHONE SERVICE ASSISTANT
+"Wilson,Christina C.",Female,Employee,32700,Per Annum,"STAFF ASSISTANT, OFFICE OF POLICY DEVELOPMENT"
+"Winland,Emily",Female,Employee,32700,Per Annum,"STAFF ASSISTANT, OFFICE OF POLICY DEVELOPMENT"
+"Womack,Robin M.",Female,Employee,41379,Per Annum,TELEPHONE SERVICE ASSISTANT
+"Wray,Jennifer A.",Female,Employee,34650,Per Annum,SCHEDULER
+"Yeager,James A.",Male,Employee,62000,Per Annum,DEPUTY ASSOCIATE DIRECTOR
+"Young,Patricia L.",Female,Employee,87472,Per Annum,"SUPERVISOR, CLASSIFICATION UNIT"
+"Young,Reginald D.,Jr.",Male,Employee,38672,Per Annum,RECORDS MANAGEMENT ANALYST
+"Young,Tracy D.",Female,Employee,43600,Per Annum,ASSOCIATE DIRECTOR OF COMMUNICATIONS
+"Yudof,Samara L.",Female,Detailee,48451,Per Annum,DEPARTMENT OF EDUCATION LIAISON
+"Yunker,Jacob H.",Male,Employee,31200,Per Annum,PRESS ASSISTANT
+"Zarate,Bridget B.",Female,Employee,32400,Per Annum,SPECIAL ASSISTANT TO THE DIRECTOR
+"Zartman,Matthew L.",Male,Employee,40000,Per Annum,DEPUTY ASSOCIATE DIRECTOR
+"Zemp,Louis Dewitt",Male,Employee,51100,Per Annum,SENIOR ADVANCE REPRESENTATIVE
+"Zimmerman,Neil H.",Male,Employee,49000,Per Annum,ASSOCIATE DIRECTOR
